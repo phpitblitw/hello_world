@@ -1,0 +1,7 @@
+package org.example;
+
+public class NewFeature {
+    public static void main(String[] args) {
+        System.out.println("this is a new feature");
+    }
+}
